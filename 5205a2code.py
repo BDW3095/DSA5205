@@ -9,3 +9,10 @@
 
 
 #lulala
+
+#啦啦
+
+a = [10,2]
+
+for i in a:
+    print(i)
